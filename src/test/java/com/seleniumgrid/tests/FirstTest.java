@@ -9,7 +9,7 @@ import com.seleniumgrid.base.BaseTest;
 
 public class FirstTest extends BaseTest {
 	@Test
-	public void logInTest() {
+	public void googleSearchTest() {
 		// Open the page
 		String url = "https://www.google.com/";
 		driver.get(url);
